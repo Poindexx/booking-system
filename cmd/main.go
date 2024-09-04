@@ -5,6 +5,8 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
+	"github.com/Poindexx/booking-system/tree/main/internal/handler"
+
 )
 
 func main() {
